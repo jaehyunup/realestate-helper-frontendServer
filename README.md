@@ -9,7 +9,7 @@
 
 
 ## 🎈 Overview!!
-프로젝트로 개발한 부동산 투자를 앞둔 유저들에게 도움을 줄 수 있는 사이트 [realestate-helper](https://github.com/jaehyunup/realestate-helper) 의 백앤드 서버입니다.
+프로젝트로 개발한 부동산 투자를 앞둔 유저들에게 도움을 줄 수 있는 사이트 [realestate-helper](https://github.com/jaehyunup/realestate-helper) 의 프론트앤드 입니다.
 
 ### 📎 백앤드 - [realestate-helper-backendServer](https://github.com/jaehyunup/realestate-helper-backendServer)  
 ### 📎 프론트앤드 - [realestate-helper-frontendServer](https://github.com/jaehyunup/realestate-helper-frontendServer)  
