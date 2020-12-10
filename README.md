@@ -1,7 +1,7 @@
 
 
 
-# [real-estate-helper](https://github.com/jaehyunup/realestate-helper-backendServer)
+# [real-estate-helper-frontendServer](https://github.com/jaehyunup/realestate-helper-frontendServer)
 
 ![Vue badge](https://img.shields.io/badge/Vue.js-2-brightgreen.svg)
 ![Javascript badge](https://img.shields.io/badge/Javascript-current-green.svg)
@@ -9,7 +9,7 @@
 
 
 ## 🎈 Overview!!
-프로젝트로 개발한 부동산 투자를 앞둔 유저들에게 도움을 줄 수 있는 사이트의 프론트앤드 서버입니다.
+프로젝트로 개발한 부동산 투자를 앞둔 유저들에게 도움을 줄 수 있는 사이트 [realestate-helper]([real-estate-helper-frontendServer](https://github.com/jaehyunup/realestate-helper) 의 프론트앤드 서버입니다.
 
 
 
